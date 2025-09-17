@@ -1,6 +1,7 @@
 # Hurdle Wordle Environment
 
-A custom environment implementing Hurdle Wordle, a challenging variant of Wordle designed for testing LLMs (Large Language Models).
+A custom environment implementing Hurdle Wordle, a challenging variant of Wordle designed for testing LLMs <br>
+[Link to the environemnt](https://app.primeintellect.ai/dashboard/environments/tnmy/hurdle-wordle)
 
 ### Overview
 - **Environment ID**: `hurdle-wordle`
@@ -114,9 +115,3 @@ The feedback calculation follows standard Wordle logic:
 2. Second pass: Count letter matches in wrong positions (yellows) from remaining letters
 
 This ensures proper handling of repeated letters and matches the behavior players expect from Wordle-style games.
-
----
-
-## Evaluation Reports
-
-*Evaluation reports will be automatically rendered below when available*
