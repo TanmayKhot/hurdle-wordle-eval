@@ -1,7 +1,7 @@
 # Hurdle Wordle Environment
 
 A custom environment implementing Hurdle Wordle, a challenging variant of Wordle designed for testing LLMs <br>
-[Link to the environemnt](https://app.primeintellect.ai/dashboard/environments/tnmy/hurdle-wordle)
+[Link to the environment](https://app.primeintellect.ai/dashboard/environments/tnmy/hurdle-wordle)
 
 ### Overview
 - **Environment ID**: `hurdle-wordle`
